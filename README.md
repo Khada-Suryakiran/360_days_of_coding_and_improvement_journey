@@ -14,3 +14,11 @@ Completed udemy course [Network Mastery for Ethical Hacking](https://www.udemy.c
 
 Strated the journey for my final year project by learning the basics of the GdSripts
 >> Data types -> String, Integer/number, Float, Boolean, Null
+
+## Day 2 - 2/1/2026
+
+Posted a post in reddit regarding my project [you can check out here](https://www.reddit.com/r/godot/comments/1q22ah2/is_godot_suitable_for_a_gamebased_cybersecurity/)
+>> The responses were inspiring and i get to know that it's quiet intresting and booming idea in the upcoming time
+>>  Made a small system design of the idea lets try to step forward
+
+This is for today

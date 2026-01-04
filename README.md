@@ -23,3 +23,10 @@ Posted a post in reddit regarding my project [you can check out here](https://ww
 >>  Made a small system design of the idea lets try to step forward
 
 This is for today
+
+## Day 3 - 4/1/2026
+
+Learning of Javascript 
+>> Today i have just started to learn the javascript and made a simple project named key matcher upcoming days i will make more projects and learn the HTML, CSS & Javascript
+>> The project Repo you Checkout [here](https://github.com/Khada-Suryakiran/Key_Mathcher)
+

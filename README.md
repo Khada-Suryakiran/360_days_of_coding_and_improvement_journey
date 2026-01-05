@@ -46,3 +46,13 @@ Completed the course [Nmap Mastery: Ultimate Guide to Network Scanning
 >> > Spoofing MAC address
 >> > Zombie Scan
 >> > Spoofing IP address
+
+## Day 4 - 5/1/2026
+
+Learned About the Docker
+>> Today i have learnt about the docker and few concepts like listed below
+>> The Course link is [here](https://www.udemy.com/course/docker-crash-course/?couponCode=CP250105G1)
+>> > Working with existing images
+>> > Creating our own docker images with Dockerfile
+>> > Running multiple images with Docker compose
+

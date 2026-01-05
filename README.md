@@ -56,3 +56,10 @@ Learned About the Docker
 >> > Creating our own docker images with Dockerfile
 >> > Running multiple images with Docker compose
 
+Learned about the GDscript basics
+>>> variable declarations
+>>> Constant
+>>> comments
+>>> if/elif/else condition statements
+>>> while loops
+>>> for loops
